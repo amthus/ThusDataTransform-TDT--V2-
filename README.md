@@ -1,4 +1,4 @@
-# ThusTrabsform2
+# ThusDataTransform-TDT--V2-
 
 A powerful data transformation and visualization tool inspired by PowerBI. Transform, visualize, and analyze your data with ease.
 
